@@ -1,9 +1,8 @@
-UNIVERSIDAD POLITÉCNICA DE VALENCIA                           
+UNIVERSIDAD POLITÃ‰CNICA DE VALENCIA                           
 Program name: genetic_algorithm. 						      
 Description: Development of genetic algorithm using DEAP library.                 
-Autor: Jesús Gerardo Moreno Nieblas. 					      						      
-Date: 17/07/2017.	
-
+Author: JesÃºs Gerardo Moreno Nieblas
+        Axel Flores Guarneros	
 NOTES
 Before to execute genetic_algorithm.py you should have the following
 2 json files on your folder:
